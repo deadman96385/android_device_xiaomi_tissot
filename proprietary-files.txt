@@ -976,6 +976,7 @@ vendor/qcril.db
 # Radio - IMS
 -vendor/app/ims/ims.apk
 -vendor/app/imssettings/imssettings.apk
+bin/ims_rtp_daemon
 bin/imscmservice
 bin/imsdatadaemon
 bin/imsqmidaemon
