@@ -980,7 +980,6 @@ vendor/lib64/libsmemlog.so
 -app/shutdownlistener/shutdownlistener.apk
 -priv-app/qcrilmsgtunnel/qcrilmsgtunnel.apk
 bin/netmgrd
-bin/port-bridge
 bin/radish
 bin/rmt_storage
 bin/tftp_server
