@@ -122,7 +122,7 @@ BOARD_USES_QCNE := true
 ENABLE_CPUSETS := true
 
 # Crypto
-TARGET_HW_DISK_ENCRYPTION := true
+TARGET_HW_DISK_ENCRYPTION := false
 
 # Dexpreopt
 ifeq ($(HOST_OS),linux)
